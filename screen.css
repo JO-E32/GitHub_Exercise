@@ -34,6 +34,7 @@ u,{
 .header{
   bottom-margin: 48px;
   background-color: black;
+  max-width:100%;
 }
 
 .main-nav-list {
