@@ -11,7 +11,7 @@ a:link {
 }
 
 a:hover {
-  color: #000;
+  color: #db0a5b;
 }
 
 h1{
@@ -63,8 +63,8 @@ figure{
 img{
   display: block;
   height: auto; 
-  width: 750px;
-  margin-left: 35rem;
+  width: auto;
+  margin-left: 30rem;
   padding-bottom: 15px;  
 }
 figcaption{
@@ -88,5 +88,10 @@ figcaption{
   margin-bottom: .5rem;
   margin-right: 75rem;
 }
+.gallery {
+  display: grid;
+   grid-gap: 1.5rem;
+   grid-template-columns: repeat(4, 1fr) 
+  }
 
 
