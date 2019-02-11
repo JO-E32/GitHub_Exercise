@@ -54,13 +54,11 @@ u,{
 }
 .gallery {
   display: grid;
-  margin:25px 50px 75px 10px;
+  margin:25px 10px 75px 10px;
   grid-gap: .25rem;
   grid-template-columns: repeat(2, 1fr) 
 }
-figure{
-  margin: 0;
-}
+
 img{
   display: block;
   height: auto; 
@@ -87,7 +85,7 @@ img{
 }
 .gallery {
   display: grid;
-  margin:25px 50px 75px 10px;
+  margin:25px 10px 75px 10px;
   grid-gap: 1rem;
   grid-template-columns: repeat(3, 1fr);
   }
