@@ -7,7 +7,7 @@ body {
 
 
 a:link {
-  color: #db0a5b;
+  color: white;
 }
 
 a:hover {
@@ -63,7 +63,9 @@ figure{
 img{
   display: block;
   height: auto; 
-  width: 100%; 
+  width: 750px;
+  margin-left: 35rem;
+  padding-bottom: 15px;  
 }
 figcaption{
   display: flex;
@@ -86,4 +88,5 @@ figcaption{
   margin-bottom: .5rem;
   margin-right: 75rem;
 }
+
 
