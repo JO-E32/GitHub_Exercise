@@ -28,7 +28,7 @@ u,{
 }
 .container{
   margin: 0 auto; 
-  padding: .75rems;
+  padding: .75rem;
   max-width: 720px;
 }
 .header{
